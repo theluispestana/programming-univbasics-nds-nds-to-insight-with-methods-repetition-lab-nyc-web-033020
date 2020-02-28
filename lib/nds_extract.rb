@@ -54,4 +54,5 @@ def total_gross(source)
     grand_total += director_gross[list[index]]
     index += 1
   end
+  grand_total
 end
